@@ -14,7 +14,7 @@ public class Fahrenheit extends Temperature
 
     @Override
     public Temperature toFahrenheit() {
-        return this;
+        return null;
     }
 
     public String toString()
